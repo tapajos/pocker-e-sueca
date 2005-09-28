@@ -36,7 +36,7 @@ public class ImagemCarta extends JButton {
 	private boolean troca;
 		
 	public ImagemCarta(String nome) {
-		this.setIcon(new ImageIcon(diretorioImagens + nome + ".gif"));
+		this.setIcon(new ImageIcon(diretorioImagens + nome + ".GIF"));
 		this.nome = nome;
 		this.dono=5;
 	}
