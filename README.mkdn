@@ -5,9 +5,12 @@
 Trabalho da matéria de POO da UFRJ feito em 2004. Trata-se de um projeto muito antigo que resolvi tornar público.
 
 
-## AUTORES
+## Autores
 
 [Marcos Tapajós][t]
+
 Bernardo Rocha
+
+Carlos Lopes
 
 [t]:http://www.improveit.com.br/en/company/tapajos
